@@ -1,7 +1,7 @@
 # **Fire Detection on images using Convolutional Neural Networks (CNN)**
 ## Author: Gregorio Mendoza Serrano
 
-<img src="Foto_2.jpg" width="30%" height="30%">
+![Alt text](Bushfires_sample.jpg)
 
 
 In this project we implement a Deep Neural Network (DNN) for image classification using an object recognition dataset. The goal is to design, train, and evaluate the neural network using deep learning techniques such as architecture selection, hyperparameter optimization, and result visualization.
@@ -40,6 +40,8 @@ When developing the classification using CNNs, we will study three different arc
 Sample Fire images from the dataset:
 
 ![Alt text](grid_pics_fire.png)
+
+
 Sample Non-Fire images from the dataset:
 
 ![Alt text](grid_pics_fire_non_fire.png)
